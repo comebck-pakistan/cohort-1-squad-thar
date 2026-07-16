@@ -2,8 +2,7 @@
 
 **Attendees:** Abdul Moiz, Ahtasham Shabbir, Musa Qamar, Muhammad Talha Rao, Saif ur Rehman
 
-Good meeting you all today! Looking forward to working with everyone. Feel free to reach out if you have any questions or need any guidance.
-
+- First Meeting with Mentor Saif ur Rehman
 - Team introductions and getting to know each other.
 - Discussed the overall development approach.
 - Recommended coding the solution instead of using low/no-code platforms.
