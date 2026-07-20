@@ -15,3 +15,13 @@
 - Clearly define the value proposition and business value.
 - Divide the workload among the four team members and start execution.
 - If you need assistance with AI tools or how to use them effectively during development, we can discuss that anytime.
+
+# Meeting 2
+
+- Moiz presented the current progress of the project and discussed the work completed so far.
+- Discussed the user  onboarding process.
+- suggestions on how to generate revenue out of this product 
+- Talked about transitioning the project into a scalable product and the considerations involved in productization.
+- Discussed the development of a web-based admin portal for data visualization and management.
+- Talha will assign roles and tasks to each team member during this week.
+- Discussed ways to become a valuable asset to the team by taking ownership, contributing proactively, and continuously improving communication, technical and problem-solving skills.
